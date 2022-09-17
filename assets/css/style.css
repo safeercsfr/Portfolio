@@ -1102,3 +1102,6 @@ section {
     padding-right: 20px 15px;
   }
 }
+#subject-error{
+  color: red;
+}
